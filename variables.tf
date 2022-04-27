@@ -13,6 +13,6 @@ variable "instance_type" {
 
 variable "instance_name" {
   description = "EC2 instance name"
-  default     = "Block demo by Kelly Kitagawa"
+  default     = "Block demo text by Kelly Kitagawa"
 }
 
